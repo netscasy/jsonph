@@ -1,4 +1,4 @@
-todos: {
+ todos: [{
             id: 1,
             title: "Todo one mod",
             completed: true,
@@ -16,4 +16,4 @@ todos: {
             completed: false,
             checked: '',
             }
-}
+            ]
