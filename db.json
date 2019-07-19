@@ -1,3 +1,4 @@
+{
  todos: [{
             id: 1,
             title: "Todo one mod",
@@ -17,3 +18,4 @@
             checked: '',
             }
             ]
+}
