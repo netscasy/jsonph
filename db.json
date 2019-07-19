@@ -4,7 +4,7 @@
           "id": 1,
           "title": "Todo one mod",
           "completed": true,
-          "checked": "checked"
+          "checked": "checked",
       },
       {
           "id": 2,
